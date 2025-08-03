@@ -1,6 +1,6 @@
 # Python Program to find the area of triangle
 
-a = 10
+a = 0
 b = 6
 c = 7
 
