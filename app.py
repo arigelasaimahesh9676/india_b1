@@ -1,7 +1,7 @@
 # Python Program to find the area of triangle
 
 a = 10
-b = 2536
+b = 2536444
 c = 7
 
 # Uncomment below to take inputs from the user
